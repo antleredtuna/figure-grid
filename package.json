@@ -1,9 +1,9 @@
 {
-  "name": "image-grid-creator",
+  "name": "figure-grid",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://antleredtuna.github.io/image-grid-creator",
+  "homepage": "https://antleredtuna.github.io/figure-grid",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
